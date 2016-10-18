@@ -1,0 +1,34 @@
+﻿a {
+    color: black;
+}
+
+.body-content {
+    margin-top: 40px;
+    background-color: #d8cece;
+    min-height: 570px;
+    max-height: 570px;
+    border: 1px solid black;
+    z-index: 1000;
+    border-radius: 40px;
+    -webkit-box-shadow: 4px 3px 33px 5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 4px 3px 33px 5px rgba(0,0,0,0.75);
+    box-shadow: 4px 3px 33px 5px rgba(0,0,0,0.75);
+}
+
+.navbar {
+    background-color: #332e2e;
+    color: white;
+    border: 1px solid black;
+}
+
+body {
+    background-color: #dbcab4;
+}
+
+td, th {
+    border: 1px solid black !important;
+}
+
+ul {
+    list-style-type: none;
+}
